@@ -1,0 +1,7 @@
+{
+	"ACCESS_TOKEN":    "get_this_from_twitter_applications_page",
+	"ACCESS_SECRET":   "get_this_from_twitter_applications_page",
+	"CONSUMER_KEY":    "get_this_from_twitter_applications_page",
+	"CONSUMER_SECRET": "get_this_from_twitter_applications_page",
+	"max_tweets":      5000
+}
