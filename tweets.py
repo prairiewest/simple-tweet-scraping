@@ -1,5 +1,8 @@
 #!/usr/local/bin/python3
 
+# Copyright (c) 2019 Todd Trann (prairiewest on GitHub)
+# This is free software - see LICENSE for terms
+
 #
 # Simple client for querying the Twitter public API
 #
