@@ -7,7 +7,12 @@ Make sure you install the twitter module:
 pip3 install twitter --user
 ```
 
-You can call it with multiple keywords or hashtags at once, and it will query them all.  Like this:
+You will need to obtain Twitter API tokens (there are 4 tokens you will need in total).  Start here:
+https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens
+
+Once you have the tokens, save them in the file "config_json.txt"
+
+You can call the script with multiple keywords or hashtags at once, and it will query them all.  Like this:
 
 ```
 python3 tweets.py "Test Thing" "#TestThing" "#TThing" TestThing
