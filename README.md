@@ -1,5 +1,5 @@
 # simple-tweet-scraping
-Very simple python script that queries the public Twitter API
+Very simple python script that queries the Twitter API
 
 You can call it with multiple keywords or hashtags at once, and it will query them all.  Like this:
 
@@ -16,7 +16,7 @@ If there was no geolocation data at all then it will copy whatever the user had 
 
 The limit to the amount of tweets that the script will pull per term is in the config file, but 1500 is generally what you're going to be limited to every 15 minutes, as a standard API user.
 
-Here is the page talking about Twitter premium APIs if the public one isn't enough:
+Here is the page talking about Twitter premium APIs if the standard one isn't enough:
 https://blog.twitter.com/developer/en_us/topics/tools/2017/introducing-twitter-premium-apis.html
 
 And here is the page that talks about the differences:
